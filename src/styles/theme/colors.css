@@ -1,0 +1,8 @@
+
+.primary-theme {
+    @apply bg-[#c5e4f2];
+  }
+  
+.primary{
+    @apply bg-[#065e49];
+}
