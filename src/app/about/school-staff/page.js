@@ -22,7 +22,7 @@ export default function page() {
                         <AboutFacultyCard img="\staff\Anuradha Mam.jpg" name="Anuradha Mam" post="Qualification: " />
                         <AboutFacultyCard img="\staff\Ashwini Mahajan.jpg" name="Ashwini Mahajan" post="Qualification: " />
 
-                        <AboutFacultyCard img="\staff\Das Mam.jpg" name="Das Mam" post="" />
+                        <AboutFacultyCard img="\staff\DasMam.jpg" name="Das Mam" post="" />
                         <AboutFacultyCard img="\staff\Dipali Khede.jpg" name="Dipali Khede" post="" />
                         <AboutFacultyCard img="\staff\Harsha Khadikar.jpg" name="Harsha Khadikar" post="" />
                         <AboutFacultyCard img="\staff\Harshita Verma.jpg" name="Harshita Verma" post="" />
@@ -30,7 +30,7 @@ export default function page() {
                         <AboutFacultyCard img="\staff\Hemlata Mam.jpg" name="Hemlata Mam" post="" />
                         <AboutFacultyCard img="\staff\Jyotsana Kumawat.jpg" name="Jyotsana Kumawat" post="" />
                         <AboutFacultyCard img="\staff\Mam Madam.jpg" name="Mam Madam" post="" />
-                        <AboutFacultyCard img="\staff\Neeta khute.jpg" name="Neeta khute" post="" />
+                        <AboutFacultyCard img="\staff\Neetakhute.jpg" name="Neeta khute" post="" />
                         <AboutFacultyCard img="\staff\Nidhi Raghuwanshi.jpg" name="Nidhi Raghuwanshi" post="" />
                         <AboutFacultyCard img="\staff\Pankaj Sir.jpg" name="Pankaj Sir" post="" />
                         
